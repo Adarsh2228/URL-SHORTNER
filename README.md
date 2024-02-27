@@ -21,7 +21,7 @@ This is a URL shortener project implemented using Node.js, Express.js, and Mongo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/url-shortener.git
+   git clone https://github.com/Adarsh2228/url-shortener.git
    ```
 
 2. Install dependencies:
